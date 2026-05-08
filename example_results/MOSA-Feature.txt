@@ -1,0 +1,19 @@
+Statistics for MOSA and Feature (-f 100, -z 10, -r 10)
+ > Average runtime: 00:00:18.153
+ > Coverage:
+   * min: 0.9433962264150944
+   * avg: 0.9679245283018869
+   * max: 0.9811320754716981
+ > Consumed Search Budget: 1.0
+ > Number of Test Cases:
+   * min: 13
+   * avg: 16.8
+   * max: 20
+ > Number of Statements per Test Suite:
+   * min: 126
+   * avg: 216.6
+   * max: 317
+ > Number of Statements per Test Case:
+   * min: 1
+   * avg: 12.665796863954759
+   * max: 46

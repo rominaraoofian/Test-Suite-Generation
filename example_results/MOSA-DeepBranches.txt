@@ -1,0 +1,19 @@
+Statistics for MOSA and DeepBranches (-f 500, -z 10, -r 10)
+ > Average runtime: 00:00:05.535
+ > Coverage:
+   * min: 0.6521739130434783
+   * avg: 0.708695652173913
+   * max: 0.7391304347826086
+ > Consumed Search Budget: 1.0
+ > Number of Test Cases:
+   * min: 8
+   * avg: 8.6
+   * max: 9
+ > Number of Statements per Test Suite:
+   * min: 28
+   * avg: 54.8
+   * max: 82
+ > Number of Statements per Test Case:
+   * min: 1
+   * avg: 6.3625
+   * max: 48

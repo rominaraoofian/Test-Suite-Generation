@@ -1,0 +1,19 @@
+Statistics for RANDOM_SEARCH and Stack (-f 500, -z 10, -r 10)
+ > Average runtime: 00:00:00.53
+ > Coverage:
+   * min: 0.7096774193548387
+   * avg: 0.7096774193548387
+   * max: 0.7096774193548387
+ > Consumed Search Budget: 1.0
+ > Number of Test Cases:
+   * min: 9
+   * avg: 9.6
+   * max: 10
+ > Number of Statements per Test Suite:
+   * min: 25
+   * avg: 28.6
+   * max: 40
+ > Number of Statements per Test Case:
+   * min: 2
+   * avg: 3.0033333333333334
+   * max: 10
